@@ -1,3 +1,5 @@
+![Pete Davidson jokes about asking Elon Musk for a Tesla before meeting](https://github.com/user-attachments/assets/d07bfd2b-9a35-4364-b98a-3b9bfb281c9f)
+
 Welcome to Learning-Very-Interesting-Maths-Only! 
 
 This repository is dedicated to exploring and understanding fascinating mathematical concepts that go beyond the basics.
@@ -25,14 +27,14 @@ Overview
 
 To get started with this repository:
 
-  Clone the Repository:
-  
-    bash
+  - Clone the Repository:
 
-    git clone https://github.com/yourusername/Learning-Very-Interesting-Maths-Only.git
+        bash
 
-  Explore the Content:
-    Navigate through the directories to find resources and code examples.
+        git clone https://github.com/yourusername/Learning-Very-Interesting-Maths-Only.git
+
+  - Explore the Content:
+      Navigate through the directories to find resources and code examples.
 
 # Contribute:
   If you have valuable insights or resources to share, please open a pull request or create an issue to discuss potential improvements.

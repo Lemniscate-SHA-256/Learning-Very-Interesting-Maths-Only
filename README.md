@@ -1,6 +1,6 @@
 ![Pete Davidson jokes about asking Elon Musk for a Tesla before meeting](https://github.com/user-attachments/assets/d07bfd2b-9a35-4364-b98a-3b9bfb281c9f)
 
-Welcome to Learning-Very-Interesting-Maths-Only! 
+# Welcome to Learning-Very-Interesting-Maths-Only! 
 
 This repository is dedicated to exploring and understanding fascinating mathematical concepts that go beyond the basics.
 Whether you're a math enthusiast or someone looking to deepen your knowledge in intriguing areas of mathematics, this repository aims to provide resources and insights into the most captivating topics in the field.
